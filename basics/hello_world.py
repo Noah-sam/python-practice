@@ -1,1 +1,2 @@
-# coming soon
+# print 
+print("Hello world!)
